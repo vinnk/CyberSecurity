@@ -1,0 +1,32 @@
+Digital Personal Data Protection Act 2023-> 11 August
+
+-defination of personal data -> borrowed from EU's General Data Protection Regulation (GDPR)
+-AIM: 
+	to protect data principles
+	restrict data fiduciary (trust on third party)
+
+It Obligates(commit) data fiduciary(trust) to only:
+	1. Ensure personal data is complete and accurate before
+		-using data to make a decision
+		-data transfer
+
+	2. Implement reasonable 
+		-security safeguards
+		-audits
+	to protect personal data and prevent breaches
+
+	3. Safely 
+		-erase
+		-destroy 
+	PA upon data principle withdrawing their concent
+
+	4. To ensure compilance implement necessary:
+		-organizational measures 
+		-technical protocols
+
+	5. Notify all affected  
+		-data principles
+		-data protection board
+	of any or all data breaches
+
+	6. Only appoint, Third party data processors-> commits to follow DPDP procedures by legal contract 
