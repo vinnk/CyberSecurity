@@ -1,0 +1,20 @@
+CERT-In warning- Multiple Android vulnerabilities (10,11,12,12L,13-> versions)
+
+issue date: 11|08|2023
+
+severty rate: high
+
+These could be exploited by attackers to:
+	-obtain sensitive information
+	-gain elivated privileges
+	-cause denial of service on the targeted system
+
+Exists due to flaws in:
+	-framework
+	-android runtime
+	-system component
+	-kernal
+	-arm components
+	-Google Play system updates
+	-MediaTek components 
+	-Qualcomm closed-source components
